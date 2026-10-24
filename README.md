@@ -368,5 +368,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-*Part of a structured LeetCode practice series — fundamentals, done right.*#   L e e t C o d e - A d d - T w o - N u m s  
- 
+*Part of a structured LeetCode practice series — fundamentals, done right.*
